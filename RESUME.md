@@ -19,7 +19,7 @@ Background spans a 50/50 split of technical and creative experience, including o
 - **DevOps:** Premised & Cloud DevOps, Ansible Automation, Linux Server Admin, Bare Metal Deployments (MaaS/Cloud-init), Virtualization & Hypervisors, Containers, CI/CD
 - **Creative:** AI Workflows & Platforms, Photogrammetry, Digital Art, Photography, Blockchain Use Cases
 
-## Study
+## Studies
 
 Cisco CyberOps, Automation, Cybersecurity, Ansible, Containers, PowerCli, Stack Development, Networking, Github Actions
 
@@ -33,7 +33,7 @@ Cisco CyberOps, Automation, Cybersecurity, Ansible, Containers, PowerCli, Stack 
 
 - November 2023 - Present
 - Present: Design and Manage • AI solutions deployed across Cello • Harness Engineering • Built and maintain Aria Platform
-- Previous: Lead DevOps initiatives • Managed Datacentres • Implemented Automation • VMware • Ansible • Terraform
+- Previous: Lead DevOps initiatives • Managed Datacenters • Implemented Automation • VMware • Ansible • Terraform
 
 ## Recent Experience
 
@@ -53,7 +53,7 @@ Tools Used: Dataminer, Ansible, Docker, Linux Debian and RPM based systems, Free
 - January 2016 - January 2020
 - IT Manager • DevOps and System Engineer • Ansible Automation • MaaS Bare Metal Deployments
 
-Tools Used:Ansible, Docker, Linux (OpenSuse, CentOS, Ubuntu), MaaS, Virtualization, Windows Server/Active Directory, Networking, Scripting (Bash and PowerShell), Databases (MySQL, Elasticsearch, MongoDB), Statistic solutions (Prometheus and Grafana),
+Tools Used: Ansible, Docker, Linux (OpenSuse, CentOS, Ubuntu), MaaS, Virtualization, Windows Server/Active Directory, Networking, Scripting (Bash and PowerShell), Databases (MySQL, Elasticsearch, MongoDB), Statistic solutions (Prometheus and Grafana),
 
 ## Past Experience
 

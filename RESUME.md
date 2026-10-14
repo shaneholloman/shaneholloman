@@ -2,8 +2,9 @@
 
 > Head of AI
 
-- [PH: 022-355-4600](tel:022-355-4600) Wellington NZ
+- [PH: 022-355-4600](tel:022-355-4600)
 - [shaneholloman@gmail.com](mailto:shaneholloman@gmail.com)
+- [https://github.com/shaneholloman)](https://github.com/shaneholloman)
 - [https\://www\.linkedin.com/in/shaneholloman](https://linkedin.com/in/shaneholloman)
 - [https\://bit.ly/holloman-resume](http://bit.ly/holloman-resume)
 
